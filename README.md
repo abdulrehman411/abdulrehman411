@@ -1,17 +1,18 @@
-<!-- 🔥 CUSTOM BANNER (Light + Dark Mode Adaptive) -->
+<!-- 🔥 CUSTOM BANNER --> 
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:0066ff&height=250&section=header&text=Abdul%20Rehman&fontSize=60&fontColor=ffffff&animation=fadeIn" /> </p>
+
+<!-- 🛠️ Tech Carousel -->
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00eaff&height=250&section=header&text=Abdul%20Rehman&fontSize=60&fontColor=ffffff&animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00eaff&height=250&section=header&text=Abdul%20Rehman&fontSize=60&fontColor=000000&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00eaff&height=250&section=header&text=Abdul%20Rehman&fontSize=60&fontColor=ffffff&animation=fadeIn" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=200&pause=200&color=00FF41&center=true&vCenter=true&width=900&lines=Python;PyTorch;TensorFlow;Keras;ScikitLearn;HuggingFace+Transformers;XGBoost;LightGBM;CatBoost;DINOv2;CLIP;ONNX;Apache+Airflow;TFX;Docker;Kubernetes;FastAPI;Flask;Django;LangChain;FAISS;Pandas;NumPy;OpenCV;Spark+MLlib;Tableau;PowerBI;AWS;GCP;Azure" />
 </p>
 
 ---
 
 ## 👋 About Me  
 I am **Abdul Rehman**, a Data Scientist & Machine Learning Engineer with experience in  
-**AI systems, deep learning, scalable pipelines, MLOps, and full-stack engineering.**
+**AI systems, deep learning, scalable pipelines, MLOps, and full-stack development.**
 
 I specialize in building **production-ready ML pipelines**, retrieval systems, and modern software solutions with clean architecture.
 
@@ -93,16 +94,12 @@ I specialize in building **production-ready ML pipelines**, retrieval systems, a
 ---
 
 # 📫 Contact  
-Feel Free to consult for your next exciting app now:
+Feel free to reach out:  
 
-📩 Email: **(a.rehmanshareef11@gmail.com)**  
+📩 Email: [a.rehmanshareef11@gmail.com](mailto:a.rehmanshareef11@gmail.com)  
 
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:0066ff&height=150&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00eaff&height=150&section=footer" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:0066ff&height=150&section=footer" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00eaff&height=150&section=footer" />
 </p>
