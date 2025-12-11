@@ -19,7 +19,6 @@ I specialize in building **production-ready ML pipelines**, retrieval systems, a
 ---
 
 ## 🔗 Profiles  
-- **GitHub:** [github.com/abdulrehman411](https://github.com/abdulrehman411)  
 - **LinkedIn:** [linkedin.com/in/abdul-rehman-9b7abdulrehman](https://www.linkedin.com/in/abdul-rehman-9b7abdulrehman)
 
 ---
