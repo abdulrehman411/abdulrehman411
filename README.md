@@ -2,12 +2,6 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:0066ff&height=250&section=header&text=Abdul%20Rehman&fontSize=60&fontColor=ffffff&animation=fadeIn" /> </p>
 
-<!-- Tech Carousel -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=200&pause=200&color=00FF41&center=true&vCenter=true&width=900&lines=Python;PyTorch;TensorFlow;Keras;ScikitLearn;HuggingFace+Transformers;XGBoost;LightGBM;CatBoost;DINOv2;CLIP;ONNX;Apache+Airflow;TFX;Docker;Kubernetes;FastAPI;Flask;Django;LangChain;FAISS;Pandas;NumPy;OpenCV;Spark+MLlib;Tableau;PowerBI;AWS;GCP;Azure" />
-</p>
-
 ---
 
 ## About Me  
@@ -85,12 +79,6 @@ I specialize in building **production-ready ML pipelines**, retrieval systems, a
 
 ---
 
-# Contribution Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdulrehman411&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 # Contact  
 Feel free to reach out:  
